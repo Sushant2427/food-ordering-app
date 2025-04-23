@@ -19,6 +19,13 @@ A user-friendly food ordering app built using React and Bootstrap. The app allow
 - **Database**: (Mention your choice of database if applicable)
 - **Authentication**: (Describe the login/signup/auth system you are using)
 
+## Live Demo
+
+You can view the live demo of the project by clicking the link below:
+
+[View Live Demo](https://courageous-florentine-484815.netlify.app)
+
+
 ## Setup and Installation
 
 Follow these steps to get your development environment set up:
