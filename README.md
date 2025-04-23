@@ -1,10 +1,10 @@
 # 🍔 KRMUnch - Food Ordering App
 
-This is a Swiggy-style food ordering app built with React and Bootstrap. Converted into an Android app using Capacitor.
+This is a Swiggy-style food ordering app built using **React.js** and **Bootstrap**. It also includes Android app support using **Capacitor** and **Android Studio**.
 
 ---
 
-## 🧰 Tech Used
+## 🧰 Tech Stack
 
 - React.js
 - Bootstrap
@@ -16,10 +16,10 @@ This is a Swiggy-style food ordering app built with React and Bootstrap. Convert
 
 ## 📦 How to Run This Project
 
-### 🌐 Web Version
+### 🌐 Run as Web App
 
-1. Install Node.js v20+ → https://nodejs.org
-2. Clone this repo:
+1. Install **Node.js v20+** → https://nodejs.org
+2. Clone this repository:
 ```bash
 git clone https://github.com/Sushant2427/food-ordering-app.git
 cd food-ordering-app
