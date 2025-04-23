@@ -14,11 +14,23 @@ A user-friendly food ordering app built using React and Bootstrap. The app allow
 
 ## Technologies Used
 
-- **Frontend**: React, Bootstrap
-- **Backend**: (You can add backend details if applicable)
-- **Database**: (Mention your choice of database if applicable)
-- **Authentication**: (Describe the login/signup/auth system you are using)
+Frontend:
+React JS – A powerful JavaScript library used for building dynamic and responsive user interfaces.
 
+Bootstrap – A popular CSS framework used for creating a clean, responsive, and mobile-friendly layout.
+
+Backend:
+(No backend has been implemented yet. The project currently functions as a frontend-only application. A backend using Node.js and Express can be added in the future for features like order management, user authentication, and storing data persistently.)
+
+Database:
+(Currently, the app uses in-memory state for cart and order management. In a future version, a database such as Firebase, MongoDB, or MySQL can be integrated to store user data and order history.)
+
+Authentication:
+The app includes basic frontend authentication using React state.
+
+Users can sign up and log in, and pages like Cart, Checkout, and Order Status are protected—only accessible after login.
+
+In future versions, this can be extended using a real authentication provider like Firebase Auth or JWT-based authentication from a custom backend.
 ## Live Demo
 
 You can view the live demo of the project by clicking the link below:
