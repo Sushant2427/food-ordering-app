@@ -1,6 +1,6 @@
 # Food Ordering App
 
-A user-friendly food ordering app built using React and Bootstrap. The app allows users to browse menus, add items to the cart, and proceed with checkout. The app includes features like login, order history, and live order tracking, mimicking popular food delivery services like Swiggy.
+A user-friendly food ordering app built using React and Bootstrap. The app allows users to browse menus, add items to the cart, and proceed with checkout. The app includes features like login, order history, and live order tracking.
 
 ## Features
 
