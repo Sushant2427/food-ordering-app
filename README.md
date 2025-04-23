@@ -1,55 +1,51 @@
-# Food Ordering App
+# 🍔 Food Ordering App
 
-A user-friendly food ordering app built using React and Bootstrap. The app allows users to browse menus, add items to the cart, and proceed with checkout. The app includes features like login, order history, and live order tracking.
+A user-friendly food ordering app built using **React** and **Bootstrap**. The app allows users to browse menus, add items to the cart, and proceed with checkout. It includes features like **login/signup**, **order history**, and **live order tracking** for a seamless experience.
 
-## Features
+## 🚀 Features
 
-- **Homepage**: Display featured items and login/signup options.
-- **Menu Page**: Display list of available food items with options to add to cart.
-- **Cart Page**: View and manage the items in the cart before proceeding to checkout.
-- **Checkout Page**: Enter delivery details and place an order.
-- **Order Status Page**: Track the status of your order in real-time.
-- **Order History Page**: View all past orders placed by the user.
-- **Login/Signup**: User authentication for personalized experience.
+- **Homepage** – Displays featured items and login/signup options.
+- **Menu Page** – Showcases available food items with options to add to the cart.
+- **Cart Page** – Lets users view and manage items before placing an order.
+- **Checkout Page** – Collects delivery details and processes the order.
+- **Order Status Page** – Tracks the real-time status of the order.
+- **Order History Page** – Displays all previously placed orders by the user.
+- **Login/Signup** – Provides user authentication for a personalized experience.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
-Frontend:
-React JS – A powerful JavaScript library used for building dynamic and responsive user interfaces.
+### Frontend:
+- **React JS** – JavaScript library for building dynamic and responsive user interfaces.
+- **Bootstrap** – CSS framework for creating a clean, responsive, and mobile-friendly layout.
 
-Bootstrap – A popular CSS framework used for creating a clean, responsive, and mobile-friendly layout.
+### Backend:
+*(No backend has been implemented yet. The app currently runs as a frontend-only application. A backend using Node.js and Express can be added in the future for order management and persistent storage.)*
 
-Backend:
-(No backend has been implemented yet. The project currently functions as a frontend-only application. A backend using Node.js and Express can be added in the future for features like order management, user authentication, and storing data persistently.)
+### Database:
+*(Currently, the app uses in-memory state for managing the cart and order data. A future update can include integration with Firebase, MongoDB, or MySQL for permanent data storage.)*
 
-Database:
-(Currently, the app uses in-memory state for cart and order management. In a future version, a database such as Firebase, MongoDB, or MySQL can be integrated to store user data and order history.)
+### Authentication:
+- Uses basic **frontend authentication** with React state.
+- Users can **sign up and log in**.
+- Sensitive pages like **Cart**, **Checkout**, and **Order Status** are **protected**.
+- Future plans include integration with **Firebase Auth** or **JWT-based authentication**.
 
-Authentication:
-The app includes basic frontend authentication using React state.
+## 🔗 Live Demo
 
-Users can sign up and log in, and pages like Cart, Checkout, and Order Status are protected—only accessible after login.
+Check out the live version of the app here:  
+👉 [View Live Demo](https://courageous-florentine-484815.netlify.app)
 
-In future versions, this can be extended using a real authentication provider like Firebase Auth or JWT-based authentication from a custom backend.
-## Live Demo
+## 💻 Setup and Installation
 
-You can view the live demo of the project by clicking the link below:
+Follow the steps below to run the project locally:
 
-[View Live Demo](https://courageous-florentine-484815.netlify.app)
+### Prerequisites:
+- Node.js and npm installed  
+👉 [Download Node.js](https://nodejs.org/)
 
+### Installation Steps:
 
-## Setup and Installation
-
-Follow these steps to get your development environment set up:
-
-### Prerequisites
-
-- Node.js and npm installed on your machine.
-  - [Download Node.js](https://nodejs.org/)
-  
-### Installation Steps
-
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/Sushant2427/food-ordering-app.git
